@@ -1,6 +1,6 @@
 {
   "name": "@fathym-it/lcu-eac-modifiers-lcu-reg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "@fathym-it/lcu-eac-modifiers-lcu-reg",
   "author": "Fathym, Inc",
   "main": "lcu.json",
