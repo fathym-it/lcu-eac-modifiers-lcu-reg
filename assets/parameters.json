@@ -1,0 +1,10 @@
+{
+  "MODIFIER_NAME": {
+    "type": "input",
+    "message": "Enter a name for this modifier:"
+  },
+  "TARGET_PATH_REGEX": {
+    "type": "input",
+    "message": "Enter the files to target regex (like '.*index.html.*'):"
+  }
+}
