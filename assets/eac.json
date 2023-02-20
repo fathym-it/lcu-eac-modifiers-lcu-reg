@@ -5,13 +5,8 @@
       "Enabled": true,
       "Name": "{{MODIFIER_NAME}}",
       "PathFilterRegex": "{{TARGET_PATH_REGEX}}",
-      "Priority": 9000,
-      "Type": "LCU.Runtime.Applications.Modifiers.LCURegDFSModifierManager, LCU.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
-
-
-      
       "Priority": 12000,
-      "Type": "LCU.Runtime.Applications.Modifiers.HTMLComposerDFSModifierManager, LCU.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      "Type": "LCU.Runtime.Applications.Modifiers.LCURegDFSModifierManager, LCU.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     }
   }
 }
